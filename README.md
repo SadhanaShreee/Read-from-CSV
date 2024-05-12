@@ -17,8 +17,8 @@ Print the output.
 
 ## PROGRAM:
  To write a python program for reading content from a csv file
- Developed by: SADHANA SHREE B
- Register number: 212223230177
+                                          Developed by: SADHANA SHREE B
+                                          Register number: 212223230177
 
                                            import pandas as pd
                                            df=pd.read_csv('nba.csv')
